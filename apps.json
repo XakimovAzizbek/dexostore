@@ -1,0 +1,14 @@
+[
+  {
+    "nom": "DEXO Player",
+    "tavsif": "Eng zo'r musiqa pleyeri",
+    "ikon_url": "https://cdn-icons-png.flaticon.com/512/27/27223.png",
+    "apk_url": "https://example.com/app.apk"
+  },
+  {
+    "nom": "DEXO Tools",
+    "tavsif": "Kundalik kerakli vositalar",
+    "ikon_url": "https://cdn-icons-png.flaticon.com/512/1063/1063376.png",
+    "apk_url": "https://example.com/app2.apk"
+  }
+]
