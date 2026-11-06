@@ -1,7 +1,28 @@
 [
   {
     "nom": "Apk qoʻriqchi",
-    "tavsif": "Eng zo'r musiqa pleyeri",
+    "tavsif": "APK Qo'riqchi
+Telegram, brauzer yoki boshqa joydan yuklab olingan APK fayllar telefoningizga zarar yetkazishi mumkin. APK Qo'riqchi ularni o'rnatishdan oldin tekshiradi va xavf haqida ogohlantiradi.
+Imkoniyatlari
+🔎 APK tekshiruvi. Download va Telegram papkalariga tushgan .apk fayllarni avtomatik aniqlaydi. Fayl ichidagi xavfli ruxsatlarni (SMS, mikrofon, kontaktlar, Accessibility, qurilma admini va boshqalar) ko'rsatadi.
+🧪 VirusTotal tekshiruvi. Fayl hashi VirusTotal bazasida tekshiriladi va natija "65 tadan 0 tasi zararli" ko'rinishida chiqadi. Faylning o'zi yuborilmaydi, faqat uning hashi.
+🚫 Karantin. Xavfli deb topilgan fayl karantinga olinadi va uni o'rnatib bo'lmaydi. Xato bo'lsa, Tiklash tugmasi bor.
+📱 Yangi ilovalar nazorati. O'rnatilgan har bir yangi ilova ruxsatlari va VirusTotal natijasi bo'yicha tekshiriladi. Xavfli bo'lsa, bildirishnomadan tezda o'chirish mumkin.
+⛔ O'rnatishni bekor qilish. Notanish manbadan o'rnatish oynasi chiqsa, ilova uni avtomatik yopadi. O'z APK ingizni o'rnatish uchun vaqtincha ruxsat berish tugmasi bor.
+🔁 Avtomatik ishga tushish. Telefon qayta yoqilganda qo'riqlash o'zi yoqiladi.
+⬆️ O'zini yangilash. Yangi versiya chiqsa, ilova bildiradi. Yangilash tugmasi bosilsa, yuklab oladi, imzosini tekshiradi va o'rnatishga tayyorlaydi.
+🎨 Neon dizayn. Qorong'i, ko'zga yoqimli interfeys.
+Qanday ruxsatlar kerak va nima uchun
+Barcha fayllarga kirish: Download papkasidagi APK larni topish uchun.
+Bildirishnomalar: xavf haqida ogohlantirish uchun.
+Accessibility: faqat tizim o'rnatuvchisi oynasidagi matnni o'qib, "Bekor qilish" tugmasini bosish uchun. Boshqa ilovalar ma'lumotini o'qimaydi.
+Internet: VirusTotal tekshiruvi va yangilanish uchun.
+Ilova o'rnatish: faqat o'z yangilanishini o'rnatish uchun.
+Muhim ma'lumot
+Ilova 100% himoya kafolatini bermaydi. Ruxsatlar va VirusTotal natijalariga asoslangan yordamchi vosita sifatida ishlaydi. Yangi yoki noyob zararli fayl bazada bo'lmasligi mumkin.
+Ilova Play Market'dan tashqarida tarqatiladi. Accessibility ishlatgani uchun Google Play Protect o'rnatishda ogohlantirish chiqarishi mumkin. Bu ilovaning zararli ekanini bildirmaydi.
+Android 6.0 va undan yuqori versiyalarda ishlaydi.
+Eng yaxshi ishlashi uchun avtoyoqilishni yoqing va batareya cheklovini "Cheklovsiz" qiling.",
     "ikon_url": "https://store.dexo.dpdns.org/ic_dexo.png",
     "apk_url": "https://github.com/XakimovAzizbek/dexostore/releases/download/Apk-qo%CA%BBriqchi-v1.3/app-release.apk"
   },
