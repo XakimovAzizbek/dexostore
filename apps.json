@@ -1,9 +1,9 @@
 [
   {
-    "nom": "DEXO Player",
+    "nom": "Apk qoʻriqchi",
     "tavsif": "Eng zo'r musiqa pleyeri",
-    "ikon_url": "https://cdn-icons-png.flaticon.com/512/27/27223.png",
-    "apk_url": "https://example.com/app.apk"
+    "ikon_url": "https://store.dexo.dpdns.org/ic_dexo.png",
+    "apk_url": "https://github.com/XakimovAzizbek/dexostore/releases/download/Apk-qo%CA%BBriqchi-v1.3/app-release.apk"
   },
   {
     "nom": "DEXO Tools",
